@@ -6,7 +6,10 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 requests = "*"
+<<<<<<< HEAD
 numpy = "*"
+=======
+>>>>>>> 7989abcc4e9bb089b84eb3a2e075e0ac92513dd4
 
 [dev-packages]
 
